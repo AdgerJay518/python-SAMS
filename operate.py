@@ -84,3 +84,4 @@ def sort(info):
     for i in x:
         print(format_data.format(i.get('id'), i.get('name'), i.get('age'), i.get('sex'), i.get('score')))
     input('按任意键返回主菜单')
+

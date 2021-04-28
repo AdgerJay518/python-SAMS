@@ -1,5 +1,3 @@
-import keyboard
-
 format_title = '{:^0}\t{:^12}\t{:^8}\t{:^8}\t{:^10}'
 format_data = '{:^0}\t{:^12}\t{:^8}\t{:^8}\t{:^10}'
 
